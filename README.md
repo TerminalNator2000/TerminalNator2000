@@ -3,7 +3,7 @@
 - 🌱 I’m a student at UNLV
 - 💞️ I’m looking to collaborate on Py3 optimization solutions 
 - 📫 How to reach me https://www.linkedin.com/in/mark-nations-93362b32a 
-- 😄 Pronouns: Who/What/WTF
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: USMC Veteran and aspiring Digital Alchemist. You can see my old Git = https://github.com/Markusj1201 
 
 <!---
